@@ -17,9 +17,13 @@ To setup this repo, navigate to the folder you want to store the project and run
     git clone https://github.com/MichaelKowal/MicroarrayAnalysis
     cd MicroarrayAnalysis
     sudo pip install virtualenv
-    virtualenv bio_venv
+    python3 -m venv bio_venv
     . bio_venv/bin/activate
     pip install bioservices
+    pip install flask
+    pip install plotly
+    FLASK_APP=app
+    FLASK_ENV=development
     
 This will set up the repo and install the necessary packages.
 
