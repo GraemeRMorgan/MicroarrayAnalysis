@@ -1,3 +1,4 @@
+![](https://github.com/GraemeRMorgan/MicroarrayAnalysis/blob/master/neet-gif-web2.gif)
 # Microarray Analysis
 
 ***
@@ -32,3 +33,5 @@ To shut off the virtual environment use
     deactivate
     
 at any time while in the venv.
+![](https://github.com/GraemeRMorgan/MicroarrayAnalysis/blob/master/neet-query2.jpg)
+![](https://github.com/GraemeRMorgan/MicroarrayAnalysis/blob/master/neet-query3.jpg)
